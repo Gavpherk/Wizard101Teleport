@@ -1,0 +1,3 @@
+﻿  W101Trainer.cpp
+C:\Users\Gavin\Desktop\W101TeleportTrainer-main\W101Trainer\W101Trainer.cpp(86): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  W101Trainer.vcxproj -> C:\Users\Gavin\Desktop\W101TeleportTrainer-main\x64\Debug\W101Trainer.exe
